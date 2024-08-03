@@ -1,0 +1,30 @@
+body
+{
+min-height:800px;    
+background-image:url('pm9.jpg');
+background-size:cover;
+background-attachment:fixed;
+animation:demo 5s linear infinite;
+padding:0px;
+margin:0px;
+background-position:center;
+}
+@keyframes demo
+{
+0%{
+  background-image:url('yojna12.jpg');
+	
+}
+20%
+{
+	background-image:url('yojna13.jpg');
+}
+30%
+{
+	background-image:url('yojna6.jpg');
+}
+40%
+{
+	background-image:url('pic1.jpg');
+}	
+}
